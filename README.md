@@ -11,10 +11,12 @@ Flash|3
 ## Mapping
 Item|UUID|Type
 ---|---|---
+Bacon May Die|e333d315-40d0-46f6-a1ef-7e3f6bdd5113|JS
 Burnin Rubber 5 XS|c35dc918-139e-4159-be3d-0d1ef0557e4e|WebGL
 Funny Shooter 2|6af3cc65-32f9-4f3d-a66c-6c8882a7c5df|WebGL
 Hydro Storm 2|283a1142-4fa3-46c4-8a3f-35ac3a28f072|WebGL
 PixWars 2|c4e5b82d-a26a-437b-8b6e-7598c98cf39b|WebGL
+Recoil|5cf218d2-f550-420c-8e55-7029efc5b4db|JS
 Vex 8|6dcc5fd9-a43a-4e13-9b6f-456a416e1059|JS
 
 ## Commit style
